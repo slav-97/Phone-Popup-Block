@@ -1,0 +1,104 @@
+.cookie-popup {
+position: fixed;
+ top: 90%; 
+right: 200px;
+transform: translateY(-50%);
+background-color: #f8d7da;
+padding: 10px;
+border-radius: 5px;
+display: none;
+}
+
+.service-block {
+width: 550px;
+height: 300px;
+top: 2757px;
+left: 340px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+background: #F9F9F9;
+}
+
+.service-block img {
+width: 60px;
+height: 60px;
+top: 2797px;
+left: 400px;
+padding: 2px 0.03px 1.04px 0px;
+gap: 0px;
+opacity: 0px;
+margin-left: 50px;
+margin-bottom:50px;
+}
+
+.h1 {
+width: 600px;
+height: 52px;
+top: 2657px;
+left: 340px;
+gap: 0px;
+opacity: 0px;
+}
+
+.service-block h2 {
+width: 476px;
+height: 31px;
+top: 2889px;
+left: 400px;
+gap: 0px;
+opacity: 0px;
+font-family: Averta CY;
+font-size: 24px;
+font-weight: 600;
+line-height: 31.2px;
+text-align: left;
+margin-left: 50px;
+margin-bottom: 10px;
+}
+
+.service-block p {
+width: 476px;
+height: 21px;
+top: 2936px;
+left: 400px;
+gap: 0px;
+opacity: 0px;
+margin-left: 50px;
+margin-bottom: 10px;
+}
+
+a {
+color: #78599C;
+margin-left: 50px;
+text-decoration:none !important;
+}
+
+.service-block btn2 {
+width: 40px;
+height: 40px;
+top: 2887px;
+left: 1595px;
+gap: 0px;
+opacity: 0px;
+angle: -180 deg;
+}
+
+.service-block button{
+width: 40px;
+height: 40px;
+top: 2887px;
+left: 325px;
+gap: 0px;
+opacity: 0px;
+}
+
+.arrow {
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 400px;
+  width: 56px;
+  height: 1px;
+  background-color: black;
+}
